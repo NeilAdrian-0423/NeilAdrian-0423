@@ -25,7 +25,6 @@
 > 📧 dreyworks23@gmail.com  
 > 📞 +63 915 052 0013
 
-🧑‍💻 Pronouns: He/Him  
 ✨ Fun fact: I’ve contributed to brands in 🇵🇭 Philippines and 🇦🇺 Australia — building full-stack applications and scalable digital solutions.
 
 ---
