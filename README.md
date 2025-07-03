@@ -2,33 +2,6 @@
 
 <p align="center">Full Stack Web Developer | Code Craftsman | Builder of Smart Web Solutions</p>
 
----
-
-### 👨‍💻 About Me
-
-🚀 I'm currently working on:
-> Developing robust full-stack systems using Vue, React, Laravel, and deployment pipelines.
-
-📚 I'm currently learning:
-> Microservices, Docker, CI/CD pipelines, and infrastructure automation.
-
-🤝 I’m looking to collaborate on:
-> Open-source web tools, UI libraries, or anything that enhances developer productivity.
-
-💡 I'm looking for help with:
-> Scalability strategies and architecture design.
-
-💬 Ask me about:
-> JavaScript, Laravel, Vue, SEO, WordPress, REST APIs, or deployment best practices.
-
-📫 How to reach me:
-> 📧 dreyworks23@gmail.com  
-> 📞 +63 915 052 0013
-
-✨ Fun fact: I’ve contributed to brands in 🇵🇭 Philippines and 🇦🇺 Australia — building full-stack applications and scalable digital solutions.
-
----
-
 ### 🧠 Tech Stack & Tools
 
 <div align="left">
