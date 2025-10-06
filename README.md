@@ -1,6 +1,6 @@
 <h1 align="center">🌍 Hello World!! I'm Neil Adrian Balolong</h1>
 
-<p align="center">Full Stack Web Developer | Code Craftsman | Builder of Smart Web Solutions</p>
+<p align="center">Full Stack Web Developer
 
 ### 🧠 Tech Stack & Tools
 
